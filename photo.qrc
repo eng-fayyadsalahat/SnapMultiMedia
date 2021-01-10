@@ -1,0 +1,18 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>image/search.png</file>
+		<file>image/check.png</file>
+        <file>image/file.png</file>
+		<file>image/file2.png</file>
+		<file>image/home.png</file>
+        <file>image/social.png</file>
+		<file>image/social2.jpg</file>
+		<file>image/youtub.png</file>
+		<file>image/youtub2.png</file>
+		<file>image/convert.png</file>
+		<file>image/video.png</file>
+		<file>image/snap.png</file>
+
+	</qresource>
+</RCC>
